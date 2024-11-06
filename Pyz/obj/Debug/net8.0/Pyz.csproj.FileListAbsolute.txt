@@ -1,0 +1,14 @@
+c:\Pyz\bin\Debug\net8.0\Pyz.exe
+c:\Pyz\bin\Debug\net8.0\Pyz.deps.json
+c:\Pyz\bin\Debug\net8.0\Pyz.runtimeconfig.json
+c:\Pyz\bin\Debug\net8.0\Pyz.dll
+c:\Pyz\bin\Debug\net8.0\Pyz.pdb
+c:\Pyz\obj\Debug\net8.0\Pyz.GeneratedMSBuildEditorConfig.editorconfig
+c:\Pyz\obj\Debug\net8.0\Pyz.AssemblyInfoInputs.cache
+c:\Pyz\obj\Debug\net8.0\Pyz.AssemblyInfo.cs
+c:\Pyz\obj\Debug\net8.0\Pyz.csproj.CoreCompileInputs.cache
+c:\Pyz\obj\Debug\net8.0\Pyz.dll
+c:\Pyz\obj\Debug\net8.0\refint\Pyz.dll
+c:\Pyz\obj\Debug\net8.0\Pyz.pdb
+c:\Pyz\obj\Debug\net8.0\Pyz.genruntimeconfig.cache
+c:\Pyz\obj\Debug\net8.0\ref\Pyz.dll
